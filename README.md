@@ -19,7 +19,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- I am a Full Stack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hycWM5eDg1d2phZ2ZyZDI1ZGM4cHNpZmdlcmppMThtZGN0OHMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmlyaySFQdYCVRaKip/giphy.gif" width="20"> from Turkey.
+- I am a Data Scientist <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3hycWM5eDg1d2phZ2ZyZDI1ZGM4cHNpZmdlcmppMThtZGN0OHMyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmlyaySFQdYCVRaKip/giphy.gif" width="20"> from Turkey.
 
 - :telescope: I’m studying Computer Science at İstanbul University.
 
@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode or GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-irem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irem-c-56816a200/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-irem-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/irem-c-56816a200/](http://linkedin.com/in/irem-cira))
 
 ---
 
