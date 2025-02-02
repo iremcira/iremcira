@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode or GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-irem-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/irem-c-56816a200/](http://linkedin.com/in/irem-cira))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-irem-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/irem-cira)
 
 ---
 
