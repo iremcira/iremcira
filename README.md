@@ -58,8 +58,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iremcira&theme=light&background=EAF2F8)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremcira)]
-
+<img src="https://github-readme-stats.vercel.app/api?username=iremcira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="iremcira's GitHub Stats" />
 
         
         
