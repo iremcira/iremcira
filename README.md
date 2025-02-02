@@ -56,9 +56,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iremcira&theme=light&background=EAF2F8)](https://git.io/streak-stats)
-
 <img src="https://github-readme-stats.vercel.app/api?username=iremcira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="iremcira's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremcira&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="iremcira's GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com?user=iremcira&theme=tokyonight&hide_border=true" alt="iremcira's GitHub Stats" />
 
         
         
