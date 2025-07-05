@@ -1,4 +1,4 @@
-<p>
+
 <img align="left" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <p>
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/> 
@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-</p>
+
 
 
  ### :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-irem-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/irem-cira)
@@ -70,8 +70,6 @@ irem.enjoy()
 # :fire: My Stats :
 
 <img src="https://github-readme-stats.vercel.app/api?username=iremcira&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="iremcira's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremcira&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="iremcira's GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=iremcira&theme=tokyonight&hide_border=true" alt="iremcira's GitHub Stats" />
 
