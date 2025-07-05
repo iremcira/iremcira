@@ -23,12 +23,12 @@
  ### :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-irem-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/irem-cira)
 
 
-
 ---
 
 
-<h2>Hi, I'm İrem Çıra</h2> 
+### Hi, I'm İrem Çıra
 
+---
 
 ### :woman_technologist: A little more about me...
 ```python
