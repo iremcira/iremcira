@@ -1,4 +1,5 @@
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<p>
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <p>
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/> 
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/> 
@@ -15,6 +16,7 @@
  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 </p>
 
 
