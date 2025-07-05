@@ -27,13 +27,38 @@
 
 
 ### :woman_technologist: A little more about me...
-```javascript
-const irem = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-}
+```python
+class Irem:
+    def __init__(self):
+        self.pronouns = ["she", "her"]
+        self.expertise_areas = [
+            "Data Science", 
+            "Machine Learning (ML)", 
+            "Deep Learning (DL)", 
+            "Artificial Intelligence (AI)"
+        ]
+        self.skills = {
+            "Languages": ["Python", "C#", "Java"],
+            "ML_DL_Frameworks": ["TensorFlow", "scikit-learn"],
+            "Data_Analysis_Libraries": ["NumPy", "Pandas", "Matplotlib", "SciPy"],
+            "Tools": ["Anaconda", ".NET"]
+        }
+        self.passion = "Extracting meaningful insights from complex data and building intelligent systems."
+
+    def describe_work(self):
+        print("My work primarily focuses on:")
+        print("- Data Analysis & Modeling: Transforming large datasets into actionable insights.")
+        print("- Machine Learning Applications: Developing predictive models, working on classification and regression problems.")
+        print("- Deep Learning & AI: Exploring and applying advanced AI techniques like neural networks, NLP, and computer vision.")
+        print("- Model Development & Optimization: Designing and improving performant and scalable ML/DL models.")
+
+    def enjoy(self):
+        print("I enjoy experimenting with new algorithms, working with large datasets, and contributing to projects leveraging the power of AI.")
+
+irem = Irem()
+irem.describe_work()
+irem.enjoy()
+
 ```
 
 ---
